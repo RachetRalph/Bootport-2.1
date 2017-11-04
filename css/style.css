@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+body { 
+	padding-top: 1px; 
+}
+
+
+h2{
+	margin-top: 15px;
+}
+
+/* nav */
+.navbar-brand{
+	font-family: 'Coming Soon', cursive;
+	font-size: 36px;
+	color: white;
+}
+.navbar-nav{
+	font-family: 'Coming Soon', cursive;
+	font-size: 18px;
+	 height: 5opx;
+}
+.navbar-default {
+  background-color:whitesmoke;
+  background-image: none;
+  background-repeat: no-repeat;
+
+ }
+/* Landing Page */
+.jumbotron{
+	width: 94.5%;
+	text-align: center;
+	text-shadow: ;
+	margin: 35px;
+	height: 525px;
+	background-size: 100%;
+	background-image: url(http://1.bp.blogspot.com/-chNXx8zYISA/UZ_lr9xHmaI/AAAAAAAAMRM/R-H883l9sRQ/s1600/sunset-creek-scenery.jpg);
+}
+
+.img-thumbnail{
+	width: 25%;
+	margin-right: 10px;
+}
+
+/* Social */
+.social{
+	width: 70px;
+	height: 70px;
+
+}
+#connect {
+  float: right;
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  margin-bottom: 20px;
+  margin-right: 0px;
+  background: #fff;
+  
+}
+.col-md-8,.col-md-4{
+	margin-top: 20px;
+}
+.form-area{
+	margin-left: 17px;
+}
